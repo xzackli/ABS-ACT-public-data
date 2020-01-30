@@ -1,3 +1,6 @@
+data/private_maps/
+data/maps/ACT.fits
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
